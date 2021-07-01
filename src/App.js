@@ -218,17 +218,6 @@ function App() {
           />
         </div>
       </div>
-      <div
-        className="d-flex justify-content-center flex-column align-items-center"
-        style={{ height: 140 }}
-      >
-        <p className="font-weight-600 color-grey-600">
-          Built by{' '}
-          <a href="https://twitter.com/thesysarch" className="color-grey-600">
-            @thesysarch
-          </a>
-        </p>
-      </div>
     </div>
   );
 }
